@@ -5,7 +5,7 @@
 I've had the opportunity to work on projects that ranged from those that never saw the light of day to others that have been utilized by thousands.
 
 The Everyday App for Babcock students (LIVE): <a href="https://apps.apple.com/gb/app/busa-app/id6450320905"> BUSA App </a> <br>
-- User Acquisition: 2000+
+- User Acquisition: 3000+
   
 Decentralized Application for Voting(Dev Mode): <a href="https://github.com/KingDavidsHub/BlockVote-Server-Side"> BlockVote </a> <br>
 
