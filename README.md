@@ -1,5 +1,5 @@
 ### Hi, I'm David🤴🏽
- Software Engineer passionate about delivering solutions that meets need & positively impacts lives. Whatever my hand finds to do, I do with all my might.
+A Software Engineer passionate about delivering solutions that meet needs & positively impact lives. Whatever my hand finds to do, I do with all my might.
 
 ### Projects:
 I've had the opportunity to work on projects that ranged from those that never saw the light of day to others that have been utilized by thousands.
