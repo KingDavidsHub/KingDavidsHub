@@ -12,7 +12,7 @@ Decentralized Application for Voting(Dev Mode): <a href="https://github.com/King
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kingdeivid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingdeivid_" height="30" width="40" /></a>
+<a href="https://x.com/KingDavidsHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingdeivid_" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/david-ezeh-45116526b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-ezeh-45116526b" height="30" width="40" /></a>
 </p>
 
