@@ -4,11 +4,7 @@ A Software Engineer passionate about delivering solutions that meet needs & posi
 ### Projects:
 I've had the opportunity to work on projects that ranged from those that never saw the light of day to others that have been utilized by thousands.
 
-The Everyday App for Babcock students (LIVE): <a href="https://apps.apple.com/gb/app/busa-app/id6450320905"> BUSA App </a> <br>
-- Total User Acquisition: 4.3k+ downloads
-  
-Decentralized Application for Voting(Dev Mode): <a href="https://github.com/KingDavidsHub/BlockVote-Server-Side"> BlockVote </a> <br>
-
+portfolio: <a href="https://kingdavid.vercel.app"> link </a> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
